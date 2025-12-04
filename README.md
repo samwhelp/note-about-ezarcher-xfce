@@ -34,6 +34,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
+| [EznixOS Xfce 探索筆記](https://samwhelp.github.io/note-about-eznixos-xfce/) | [GitHub](https://github.com/samwhelp/note-about-eznixos-xfce) |
 | [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
 | [MxLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
 | [Pardus Xfce 探索筆記](https://samwhelp.github.io/note-about-pardus-xfce/) | [GitHub](https://github.com/samwhelp/note-about-pardus-xfce) |
